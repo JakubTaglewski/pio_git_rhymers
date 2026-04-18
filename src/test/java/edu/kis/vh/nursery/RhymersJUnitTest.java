@@ -1,3 +1,5 @@
+// Wszystkie testy jednostkowe przechodzą pomyślnie, projekt nie wymagał poprawek
+
 package edu.kis.vh.nursery;
 
 import org.junit.Assert;
